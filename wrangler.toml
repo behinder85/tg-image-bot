@@ -1,4 +1,4 @@
-name = "tgimgbot"
+name = "tg-image-bot"
 main = "worker.js"
 compatibility_date = "2025-05-12"
 
